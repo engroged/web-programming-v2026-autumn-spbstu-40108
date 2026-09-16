@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color: rgb(209, 207, 207);
+  background-color: rgb(209 207 207);
   font-family: Arial;
 }
 
@@ -21,12 +21,12 @@ body {
 
 .header {
   padding-left: 10px;
-  padding-top:3px;
+  padding-top: 3px;
   height: 27px;
   border: solid;
   border-radius: 5px 5px 0 0;
-  border-color: rgb(85, 85, 205);
-  background-color:rgb(85, 85, 205);
+  border-color: rgb(85 85 205);
+  background-color: rgb(85 85 205);
   color: white;
 }
 
@@ -48,8 +48,8 @@ body {
   height: 27px;
   border: solid;
   border-radius: 0 0 5px 5px;
-  border-color: rgb(85, 85, 205);
-  background-color:rgb(85, 85, 205);
+  border-color: rgb(85 85 205);
+  background-color: rgb(85 85 205);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -65,10 +65,10 @@ body {
   cursor: pointer;
 }
 
-button.btn-ok:hover{
-  background-color: rgb(12, 161, 69);
+.btn-ok:hover {
+  background-color: rgb(12 161 69);
 }
 
-button.btn-cancel:hover{
-  background-color: rgb(199, 93, 108);
+.btn-cancel:hover {
+  background-color: rgb(199 93 108);
 }
