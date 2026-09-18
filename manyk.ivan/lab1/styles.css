@@ -23,8 +23,7 @@ body {
 }
 
 .header {
-  padding-left: 10px;
-  padding-top: 3px;
+  margin: 0;
   height: 27px;
   border: solid;
   border-radius: 5px 5px 0 0;
@@ -34,6 +33,7 @@ body {
 }
 
 .main {
+  margin: 0;
   height: 80px;
   background-color: azure;
   border-left: solid azure;
