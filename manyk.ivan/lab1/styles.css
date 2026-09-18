@@ -17,6 +17,9 @@ body {
 
 .window {
   width: 300px;
+  margin: auto;
+  padding: 0;
+  border: none;
 }
 
 .header {
